@@ -63,7 +63,7 @@
     "markdownListEnumeration":"starlightBlue",
     "markdownImage":          "starlightBlue",
     "markdownImageText":      "nebulaCyan",
-    "markdownCodeBlock":      "textLight",
+    "markdownCodeBlock":      "starYellow",
 
     "syntaxComment":     "#5a4a7a",
     "syntaxKeyword":     "cosmicPurple",
