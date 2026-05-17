@@ -4,7 +4,7 @@
     "purpleBg":     "#1e1438",
     "darkerBg":     "#1a1130",
     "lighterBg":    "#241a40",
-    "textLight":    "#22d3ee",
+    "textLight":    "#facc15",
     "textMuted":    "#1a90a8",
     "nebulaPink":   "#f472b6",
     "starlightBlue":"#60a5fa",
@@ -13,7 +13,7 @@
     "cosmicOrange": "#fb923c",
     "nebulaCyan":   "#22d3ee",
     "starWhite":    "#e8e0f0",
-    "starYellow":   "#facc15"
+    "starYellow":   "#22d3ee"
   },
   "theme": {
     "primary":      "nebulaPink",

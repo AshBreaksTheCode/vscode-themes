@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#1e1438",
-    "editor.foreground": "#22d3ee",
+    "editor.foreground": "#facc15",
     "editor.lineHighlightBackground": "#2a1d48",
     "editor.selectionBackground": "#4a3a8e80",
     "editor.inactiveSelectionBackground": "#4a3a8e40",
@@ -605,7 +605,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#facc15"
+        "foreground": "#22d3ee"
       }
     },
     {
@@ -764,7 +764,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#facc15"
+        "foreground": "#22d3ee"
       }
     },
     {
@@ -853,19 +853,19 @@
     {
       "scope": "string.quoted.double",
       "settings": {
-        "foreground": "#facc15"
+        "foreground": "#22d3ee"
       }
     },
     {
       "scope": "string.quoted.single",
       "settings": {
-        "foreground": "#facc15"
+        "foreground": "#22d3ee"
       }
     },
     {
       "scope": "string.quoted.template",
       "settings": {
-        "foreground": "#facc15"
+        "foreground": "#22d3ee"
       }
     },
     {
@@ -979,7 +979,7 @@
   ],
   "semanticTokenColors": {
     "newOperator": "#a78bfa",
-    "stringLiteral": "#facc15",
+    "stringLiteral": "#22d3ee",
     "numberLiteral": "#fb923c",
     "typeAlias": "#c084fc",
     "enumMember": "#c084fc",
@@ -989,8 +989,8 @@
     "member": "#60a5fa",
     "member.getter": "#60a5fa",
     "member.setter": "#fbbf24",
-    "property": "#22d3ee",
-    "variable": "#22d3ee",
+    "property": "#facc15",
+    "variable": "#facc15",
     "variable.readonly": "#fb923c",
     "variable.defaultLibrary": "#fb923c",
     "function": "#60a5fa",
@@ -1009,6 +1009,6 @@
     "comment": "#3b4a6b",
     "macro": "#60a5fa",
     "keyword": "#a78bfa",
-    "string": "#facc15"
+    "string": "#22d3ee"
   }
 }
