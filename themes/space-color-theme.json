@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#1e1438",
-    "editor.foreground": "#8ab4e0",
+    "editor.foreground": "#6a9ed0",
     "editor.lineHighlightBackground": "#2a1d48",
     "editor.selectionBackground": "#4a3a8e80",
     "editor.inactiveSelectionBackground": "#4a3a8e40",
@@ -641,13 +641,13 @@
         "punctuation.definition.keyword"
       ],
       "settings": {
-        "foreground": "#8ab4e0"
+        "foreground": "#7aaeda"
       }
     },
     {
       "scope": "variable.other.property",
       "settings": {
-        "foreground": "#8ab4e0"
+        "foreground": "#7aaeda"
       }
     },
     {
@@ -925,13 +925,13 @@
     {
       "scope": "variable.other.readwrite",
       "settings": {
-        "foreground": "#8ab4e0"
+        "foreground": "#7aaeda"
       }
     },
     {
       "scope": "variable.other.object.property",
       "settings": {
-        "foreground": "#8ab4e0"
+        "foreground": "#7aaeda"
       }
     },
     {
@@ -973,7 +973,7 @@
     {
       "scope": "meta.definition.variable",
       "settings": {
-        "foreground": "#8ab4e0"
+        "foreground": "#7aaeda"
       }
     }
   ],
@@ -989,8 +989,8 @@
     "member": "#60a5fa",
     "member.getter": "#60a5fa",
     "member.setter": "#fbbf24",
-    "property": "#7aaeda",
-    "variable": "#7aaeda",
+    "property": "#6a9ed0",
+    "variable": "#6a9ed0",
     "variable.readonly": "#fb923c",
     "variable.defaultLibrary": "#fb923c",
     "function": "#60a5fa",
