@@ -12,7 +12,8 @@
     "lightPurple":  "#c084fc",
     "cosmicOrange": "#fb923c",
     "nebulaCyan":   "#22d3ee",
-    "starWhite":    "#e8e0f0"
+    "starWhite":    "#e8e0f0",
+    "starYellow":   "#facc15"
   },
   "theme": {
     "primary":      "nebulaPink",
@@ -53,7 +54,7 @@
     "markdownHeading":        "nebulaPink",
     "markdownLink":           "starlightBlue",
     "markdownLinkText":       "nebulaCyan",
-    "markdownCode":           "nebulaPink",
+    "markdownCode":           "starYellow",
     "markdownBlockQuote":     "textMuted",
     "markdownEmph":           "cosmicPurple",
     "markdownStrong":         "nebulaPink",
@@ -68,7 +69,7 @@
     "syntaxKeyword":     "cosmicPurple",
     "syntaxFunction":    "starlightBlue",
     "syntaxVariable":    "textLight",
-    "syntaxString":      "nebulaPink",
+    "syntaxString":      "starYellow",
     "syntaxNumber":      "cosmicOrange",
     "syntaxType":        "lightPurple",
     "syntaxOperator":    "cosmicPurple",
