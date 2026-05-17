@@ -1,7 +1,7 @@
 {
   "name": "fairy-pink-theme",
   "displayName": "Fairy Pink Theme",
-  "description": "A collection of custom themes for VS Code — Fairy Pink and Space Galaxy",
+  "description": "A collection of custom themes for VS Code — Fairy Pink, Space Galaxy, and Forest Fairy",
   "version": "0.0.1",
   "publisher": "custom",
   "engines": {
@@ -19,6 +19,11 @@
         "label": "Space Galaxy",
         "uiTheme": "vs-dark",
         "path": "./themes/space-color-theme.json"
+      },
+      {
+        "label": "Forest Fairy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-fairy-color-theme.json"
       }
     ]
   }
