@@ -2,7 +2,7 @@
   "name": "fairy-pink-theme",
   "displayName": "Fairy Pink Theme",
   "description": "A collection of custom themes for VS Code — Fairy Pink and Space Galaxy",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "custom",
   "engines": {
     "vscode": "^1.60.0"
