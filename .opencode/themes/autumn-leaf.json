@@ -1,11 +1,11 @@
 {
   "$schema": "https://opencode.ai/theme.json",
   "defs": {
-    "bgMain":       "#790000",
-    "bgPanel":      "#790000",
-    "bgLighter":    "#790000",
-    "bgHover":      "#903030",
-    "bgDarkest":    "#790000",
+    "bgMain":       "#4f0000",
+    "bgPanel":      "#4f0000",
+    "bgLighter":    "#4f0000",
+    "bgHover":      "#802020",
+    "bgDarkest":    "#4f0000",
     "fgMain":       "#DEB887",
     "fgMuted":      "#B09870",
     "fgComment":    "#8A7A5A",
@@ -52,7 +52,7 @@
     "diffRemovedLineNumberBg": "#4A202020",
 
     "markdownText":           "fgMain",
-    "markdownHeading":        "leafKeyword",
+    "markdownHeading":        "#556B2F",
     "markdownLink":           "infoBlue",
     "markdownCode":           "leafString",
     "markdownLinkText":       "infoBlue",
