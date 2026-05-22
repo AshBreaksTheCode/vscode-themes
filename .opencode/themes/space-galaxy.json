@@ -1,11 +1,11 @@
 {
   "$schema": "https://opencode.ai/theme.json",
   "defs": {
-    "purpleBg":     "#d9abff",
-    "darkerBg":     "#c99af0",
-    "lighterBg":    "#d0a0f5",
-    "textLight":    "#1e1438",
-    "textMuted":    "#4a2a6a",
+    "purpleBg":     "#1e1438",
+    "darkerBg":     "#1a1130",
+    "lighterBg":    "#241a40",
+    "textLight":    "#e8e0f0",
+    "textMuted":    "#1a90a8",
     "nebulaPink":   "#f472b6",
     "starlightBlue":"#60a5fa",
     "cosmicPurple": "#a78bfa",
@@ -34,22 +34,22 @@
     "backgroundElement": "lighterBg",
     "backgroundMenu":    "darkerBg",
 
-    "border":       "#c08aeb",
+    "border":       "#2a1d50",
     "borderActive": "cosmicPurple",
-    "borderSubtle": "#c99af0",
+    "borderSubtle": "#221640",
 
     "diffAdded":         "#34d399",
     "diffRemoved":       "#ef4444",
-    "diffContext":       "#8a6aaa",
+    "diffContext":       "#5a4a7a",
     "diffHunkHeader":    "cosmicPurple",
-    "diffHighlightAdded":   "#34d399",
+    "diffHighlightAdded":   "#4ade80",
     "diffHighlightRemoved": "#f87171",
-    "diffAddedBg":          "#d4f4d420",
-    "diffRemovedBg":        "#fce4ec20",
-    "diffContextBg":        "#d0a0f5",
-    "diffLineNumber":       "#8a6aaa",
-    "diffAddedLineNumberBg":   "#d4f4d420",
-    "diffRemovedLineNumberBg": "#fce4ec20",
+    "diffAddedBg":          "#1a3a2020",
+    "diffRemovedBg":        "#3a1a2820",
+    "diffContextBg":        "darkerBg",
+    "diffLineNumber":       "#3a2a5a",
+    "diffAddedLineNumberBg":   "#1a3a2020",
+    "diffRemovedLineNumberBg": "#3a1a2820",
 
     "markdownText":           "textLight",
     "markdownHeading":        "nebulaPink",
@@ -65,7 +65,7 @@
     "markdownImageText":      "babyBlue",
     "markdownCodeBlock":      "babyBlue",
 
-    "syntaxComment":     "#8a6aaa",
+    "syntaxComment":     "#5a4a7a",
     "syntaxKeyword":     "starYellow",
     "syntaxFunction":    "starlightBlue",
     "syntaxVariable":    "textLight",
@@ -73,7 +73,7 @@
     "syntaxNumber":      "cosmicOrange",
     "syntaxType":        "lightPurple",
     "syntaxOperator":    "starYellow",
-    "syntaxPunctuation": "#7a5a9a",
+    "syntaxPunctuation": "#6a5a8a",
 
     "thinkingOpacity": 0.4
   }
